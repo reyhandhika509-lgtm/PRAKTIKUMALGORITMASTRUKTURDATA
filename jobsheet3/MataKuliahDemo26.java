@@ -6,7 +6,7 @@ public class MataKuliahDemo26 {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-          System.out.println("Berapa Matakuliah yang ingin ditambahkan: ");
+        System.out.println("Berapa Matakuliah yang ingin ditambahkan: ");
         int n;
         n = sc.nextInt();
         Matakuliah26[] arrayOfMatakuliah = new Matakuliah26[n];
