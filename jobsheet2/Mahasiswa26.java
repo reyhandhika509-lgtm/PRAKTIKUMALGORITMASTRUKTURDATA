@@ -5,6 +5,13 @@ public class Mahasiswa26 {
     double ipk;
     public Mahasiswa26() {
     }
+    void updateipk(double ipkBaru){
+        if (ipkBaru >= 0.0 && ipkBaru <= 4.0) {
+            ipk = ipkBaru;
+        } else {
+            System.out.println("Nilai IPK tidak valid. Harus antara 0.0 dan 4.0.");
+        } 
+    }
     void tampilkanInformasi() {
         System.out.println("Nama: " + nama);
         System.out.println("NIM: " + nim);
@@ -27,5 +34,6 @@ public class Mahasiswa26 {
         } else {
             return "Kinerja kurang";
         }
+
     }
 }
