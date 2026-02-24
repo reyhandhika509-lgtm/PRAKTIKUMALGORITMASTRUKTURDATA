@@ -26,28 +26,28 @@ public class MahasiswaDemo26 {
             System.out.println("-----------------------------");
 
         }
-        arrayOfMahasiswa[0] = new Mahasiswa26();
-        arrayOfMahasiswa[0].nim = "25410410";
-        arrayOfMahasiswa[0].nama = "Reyhandhika Zikri P";
-        arrayOfMahasiswa[0].kelas = "TI-1G";
-        arrayOfMahasiswa[0].ipk = (float) 3.75;
+    //     arrayOfMahasiswa[0] = new Mahasiswa26();
+    //     arrayOfMahasiswa[0].nim = "25410410";
+    //     arrayOfMahasiswa[0].nama = "Reyhandhika Zikri P";
+    //     arrayOfMahasiswa[0].kelas = "TI-1G";
+    //     arrayOfMahasiswa[0].ipk = (float) 3.75;
 
-        arrayOfMahasiswa[1] = new Mahasiswa26();
-        arrayOfMahasiswa[1].nim = "25410411";
-        arrayOfMahasiswa[1].nama = "Rizky Ramadhan";
-        arrayOfMahasiswa[1].kelas = "TI-1G";
-        arrayOfMahasiswa[1].ipk = (float) 3.36;
+    //     arrayOfMahasiswa[1] = new Mahasiswa26();
+    //     arrayOfMahasiswa[1].nim = "25410411";
+    //     arrayOfMahasiswa[1].nama = "Rizky Ramadhan";
+    //     arrayOfMahasiswa[1].kelas = "TI-1G";
+    //     arrayOfMahasiswa[1].ipk = (float) 3.36;
 
-        arrayOfMahasiswa[2] = new Mahasiswa26();
-        arrayOfMahasiswa[2].nim = "25410412";
-        arrayOfMahasiswa[2].nama = "Dimas Pratama";
-        arrayOfMahasiswa[2].kelas = "TI-1G";
-        arrayOfMahasiswa[2].ipk = (float) 3.80;
+    //     arrayOfMahasiswa[2] = new Mahasiswa26();
+    //     arrayOfMahasiswa[2].nim = "25410412";
+    //     arrayOfMahasiswa[2].nama = "Dimas Pratama";
+    //     arrayOfMahasiswa[2].kelas = "TI-1G";
+    //     arrayOfMahasiswa[2].ipk = (float) 3.80;
 
-    System.out.println("NIM     : " + arrayOfMahasiswa[0].nim);
-    System.out.println("Nama    : " + arrayOfMahasiswa[0].nama);
-    System.out.println("Kelas   : " + arrayOfMahasiswa[0].kelas);
-    System.out.println("IPK     : " + arrayOfMahasiswa[0].ipk);
+    // System.out.println("NIM     : " + arrayOfMahasiswa[0].nim);
+    // System.out.println("Nama    : " + arrayOfMahasiswa[0].nama);
+    // System.out.println("Kelas   : " + arrayOfMahasiswa[0].kelas);
+    // System.out.println("IPK     : " + arrayOfMahasiswa[0].ipk);
     System.out.println("--------------------------------------");
     System.out.println("NIM     : " + arrayOfMahasiswa[1].nim);
     System.out.println("Nama    : " + arrayOfMahasiswa[1].nama);
