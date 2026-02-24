@@ -5,6 +5,12 @@ public class Mahasiswa26 {
     double ipk;
     public Mahasiswa26() {
     }
+    public Mahasiswa26(String nm, String nim, String kls, double ipk) {
+        nama = nm;
+        this.nim = nim;
+        this.ipk =ipk;
+        kelas = kls;
+    }
     void updateipk(double ipkBaru){
         if (ipkBaru >= 0.0 && ipkBaru <= 4.0) {
             ipk = ipkBaru;
