@@ -11,5 +11,9 @@ public class MahasiswaMain26 {
     mhs1.ubahKelas("TI 1H");
     mhs1.UpdateIpk(3.8);
     mhs1.tampilkanInformasi();
+
+    Mahasiswa26 mhs2= new Mahasiswa26("Yudistira", "254107020220", "TI 1G", 3.8);
+    mhs2.updateipk(3.30);
+    mhs2.tampilkanInformasi();
     }
 }
